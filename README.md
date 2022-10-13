@@ -18,7 +18,8 @@ implementation of fp_growth algorithm using python3
    python <path of code.py>
    ```
 and enter minimun support that must be entiger.
--the output will be the frequents items in the data.
+
+-The output will be the frequents items in the data.
 
 
 

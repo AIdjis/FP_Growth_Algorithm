@@ -11,7 +11,7 @@ implementation of fp_growth algorithm using python3
    pip install pandas
    ```
 ### run the code:
-1-data.csv is comma separated values contains exemple of data.
+1-data.csv is comma separated values file contains exemple of data.
 
 2-To run the code.py open a command line and type:
 ```cmd
